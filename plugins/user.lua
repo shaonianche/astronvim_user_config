@@ -10,4 +10,5 @@ return {
   --   end,
   -- },
   {"wakatime/vim-wakatime", lazy = false},
+  {"ojroques/vim-oscyank", lazy = false},
 }
